@@ -12,3 +12,4 @@ edit_uri: 'tree/master/docs/'
 nav:
   - 简介:
     - Getting Started: index.md
+    - Test: test.md
