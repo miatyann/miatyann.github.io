@@ -7,7 +7,7 @@ theme:
 #repository
 repo_name: 'miatyann/miatyann.github.io'
 repo_url: 'https://github.com/miatyann/miatyann.github.io'
-edit_uri: 'tree/gh_pages/docs/'
+edit_uri: 'blob/gh_pages/docs/'
 
 #contents
 nav:
