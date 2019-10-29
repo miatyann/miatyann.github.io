@@ -2,3 +2,13 @@ site_name: miatyann's Docs
 theme:
   name: 'material'
   language: 'zh'
+
+#repository
+repo_name: 'miatyann/miatyann.github.io'
+repo_url: 'https://github.com/miatyann/miatyann.github.io'
+edit_uri: 'tree/master/docs/'
+
+#contents
+nav:
+  - 简介:
+    - Getting Started: index.md
